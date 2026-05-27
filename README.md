@@ -71,7 +71,7 @@ Employee-Management-System/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/Employee-Management-System.git
+git clone (https://github.com/itsVedant24/Employee_Management_System/)
 2️⃣ Open Project
 
 Open the project in:
