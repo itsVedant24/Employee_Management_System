@@ -1,4 +1,10 @@
 package com.ems.service;
 
-public class AuthService {
+import com.ems.dto.AuthResponse;
+import com.ems.dto.LoginRequest;
+
+public interface AuthService {
+
+    AuthResponse login(
+            LoginRequest request);
 }
